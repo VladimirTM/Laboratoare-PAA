@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Sobibobi\Desktop\PAA\ArboreGeneralizat\ArboreGeneralizat\main.c(5,14): warning C4100: 'argc': unreferenced formal parameter
+C:\Users\Sobibobi\Desktop\PAA\ArboreGeneralizat\ArboreGeneralizat\main.c(14,1): warning C4700: uninitialized local variable 'arbore' used
+  ArboreGeneralizat.vcxproj -> C:\Users\Sobibobi\Desktop\PAA\ArboreGeneralizat\ARM64\Debug\ArboreGeneralizat.exe
